@@ -1,0 +1,20 @@
+.displayInfo {
+ color: #990000;   
+ margin-top: 20px;
+}
+
+.displayPar {
+    color: #333;
+    margin-top: 20px;
+    display: flex;
+}
+
+.wordUnit {
+    border-style: solid;
+    padding: 2px;
+}
+
+.wordValue {
+    color: rgb(5, 151, 49);
+    top: -2em;
+}

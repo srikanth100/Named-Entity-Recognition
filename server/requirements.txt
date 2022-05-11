@@ -1,0 +1,7 @@
+flask_ngrok
+flask-cors
+sklearn_crfsuite
+spacy~=3.0.8
+numpy~=1.21.2
+Flask~=1.1.2
+markupsafe==2.0.1

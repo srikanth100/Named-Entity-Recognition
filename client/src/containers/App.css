@@ -1,0 +1,14 @@
+.App {
+  float: left;
+  margin-left: 100px;
+  margin-top: 200px;
+  background-color: rgb(255, 255, 255);
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.App-header {
+  font-size: calc(10px + 2vmin);
+  color: purple;
+  display: inline-block;
+  width: 100%;
+}
